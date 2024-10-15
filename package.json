@@ -16,7 +16,7 @@
     "typewriter-effect": "^2.18.2",
     "web-vitals": "^3.1.1"
   },
-  "homepage": "https://github.com/vidyapro/portfolio-template",
+  "homepage": "https://vidyapro.github.io/portfolio-template/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
