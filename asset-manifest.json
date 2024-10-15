@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/vidyapro/portfolio-template/static/css/main.6b9b6197.css",
-    "main.js": "/vidyapro/portfolio-template/static/js/main.87f20612.js",
-    "index.html": "/vidyapro/portfolio-template/index.html"
+    "main.css": "/portfolio-template/static/css/main.6b9b6197.css",
+    "main.js": "/portfolio-template/static/js/main.adef287e.js",
+    "index.html": "/portfolio-template/index.html"
   },
   "entrypoints": [
     "static/css/main.6b9b6197.css",
-    "static/js/main.87f20612.js"
+    "static/js/main.adef287e.js"
   ]
 }
